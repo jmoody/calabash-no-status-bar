@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CBAF492-4A19-4D63-AF53-365E05D89335</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StatusLess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65429C09-309A-4574-BF82-1A7854FB145D</key>
+		<string>https://github.com/jmoody/calabash-no-status-bar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StatusLess.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65429C09-309A-4574-BF82-1A7854FB145D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmoody/calabash-no-status-bar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65429C09-309A-4574-BF82-1A7854FB145D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65429C09-309A-4574-BF82-1A7854FB145D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>calabash-no-status-bar</string>
+		</dict>
+	</array>
+</dict>
+</plist>

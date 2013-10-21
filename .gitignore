@@ -1,0 +1,62 @@
+# turds
+(.*/)?\#[^/]*\#$
+
+*.orig
+*.bak
+
+
+scratch
+private
+SlenderBackup*
+Backup*
+
+*.ipa
+
+#versioning
+InfoPlist.h
+
+## Mac OS X
+.DS_Store 
+__MACOSX
+
+# Jetbrains
+workspace.xml
+find.xml
+
+# calabash/cucumber
+.irb-history
+.bundle
+vendor
+Gemfile.lock
+*.gem
+rerun*.txt
+*calabash*.html
+*pluto*.html
+*neptune*.html
+*venus*.html
+*earp*.html
+
+screenshot*.png
+
+# xamarin build directory
+xamarin
+
+
+
+# Xcode 4
+*.xcodeproj/*.mode*
+*.xcodeproj/*.perspective*
+*.xcodeproj/*.pbxuser   
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+
+## Build products
+build/*
+*/build/*
+
+## Automated backup nonsense
+*.swp
+*~
+*~.nib
+*(Autosaved).rtfd/
+*.xcuserdatad
