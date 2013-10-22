@@ -15,9 +15,10 @@ IP=`cat ~/.xamarin/devices/neptune/ip`
 UDID=`cat ~/.xamarin/devices/neptune/udid`
 PLAYBACK_DIR="features/playback" \
 CALABASH_FULL_CONSOLE_OUTPUT="1" \
+DEBUG=1 \
 DEVICE="iphone" \
 DEVICE_TARGET=${UDID} \
-BUNDLE_ID="com.littlejoysoftware.Briar-cal" \
+BUNDLE_ID=com.littlejoysoftware.StatusLess-cal \
 DEVICE_ENDPOINT=${IP} \
 IRBRC=.irbrc \
 bundle exec irb

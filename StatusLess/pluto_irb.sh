@@ -25,7 +25,7 @@ CALABASH_FULL_CONSOLE_OUTPUT="1" \
 DEBUG=1 \
 DEVICE=$TMP_DEVICE \
 DEVICE_TARGET=${UDID} \
-BUNDLE_ID="com.littlejoysoftware.Briar-cal" \
+BUNDLE_ID=com.littlejoysoftware.StatusLess-cal \
 DEVICE_ENDPOINT=${IP} \
 IRBRC=.irbrc \
 bundle exec irb
